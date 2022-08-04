@@ -14,9 +14,23 @@ f.close() #close file
 print("\nFile 2 :")
 f = open("f1.txt", "w")
 f.write("I am Shravani Patil.")
-f.write("I am in SYBCA.")
+f.write("\nI am in SYBCA.")
 f.close()
 
 print("File 2 looping :")
 for x in open("f1.txt"):
-    print((x))
+    print((x),end=" ")
+
+#write in existing file
+print("\nWriting in existing file :")
+f = open("f1.txt", "a")
+f.write("\nI am fresher.")
+f.close()
+print("Content of file :\n", open("f1.txt").read())
+
+#create new file
+print("\nCreating new file :")
+f = open("f2.txt", "w")
+f.write("MIRACLE !")
+f.close()
+print("Content of file :\n", open("f2.txt").read())
