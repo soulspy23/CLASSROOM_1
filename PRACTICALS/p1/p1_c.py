@@ -1,5 +1,9 @@
 # Write a program to generate the Fibonacci series from a number entered by the user
 
+print("*****************************")
+print("Program for Fibonaaci series")
+print("*****************************\n")
+
 nterms = int(input("Enter the number of terms: "))
 
 n1, n2 = 0, 1

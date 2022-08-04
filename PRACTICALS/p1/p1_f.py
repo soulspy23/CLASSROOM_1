@@ -1,5 +1,9 @@
 # Write a recursive function to print the factorial for a given number.
 
+print("***********************************************")
+print("Recursive program function to display factorial")
+print("***********************************************\n")
+
 def factorial(n):
     if n == 1:
         return 1

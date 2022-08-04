@@ -1,5 +1,9 @@
 # Write a function to check the input value is Armstrong and also write the function for Palindrome.
 
+print("*********************************")
+print("Program to verify Armstrong Value")
+print("*********************************\n")
+
 number = int(input("Enter a number: "))
 
 def isArmstrong():
@@ -12,9 +16,13 @@ def isArmstrong():
     if number == sum:
         print("The number is Armstrong")
     else:
-        print("The number is not Armstrong")
+        print("The number is not Armstrong\n")
 
 isArmstrong()
+
+print("**********************************")
+print("Program to verify Armstrong Value")
+print("*********************************\n")
 
 def isPalindrome():
     temp = number
