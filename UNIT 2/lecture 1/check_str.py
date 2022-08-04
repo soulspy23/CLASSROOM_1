@@ -13,3 +13,4 @@ print("expensive" not in txt)
 
 if "expensive" not in txt:
     print("expensive is not in the string")
+
