@@ -1,6 +1,10 @@
 #wap that takes 2 lists and returns True if they have atleast one common member
 #28th July
 
+print("****************************************************")
+print("Program to return True for common members in 2 lists")
+print("****************************************************\n")
+
 l1= [] #empty list
 no =int(input("How many elements you wish to enter for list-1 :-"))
 print("\nEnter",no,"elements for list-1 :-")

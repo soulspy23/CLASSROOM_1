@@ -1,5 +1,9 @@
 #wap to print a specified list after removing the 0th, 2nd, 4th and 5th element
 
+print("***********************************************************")
+print("Program to remove 0th, 2nd, 4th and 5th element from a list")
+print("***********************************************************")
+
 emplist = []     #empty list
 print("Enter 10 elements in a list :-")
 
