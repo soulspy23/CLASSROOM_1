@@ -21,7 +21,7 @@ def isArmstrong():
 isArmstrong()
 
 print("**********************************")
-print("Program to verify Armstrong Value")
+print("Program to verify Palindrome Value")
 print("*********************************\n")
 
 def isPalindrome():

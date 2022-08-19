@@ -9,4 +9,4 @@ value = input("Enter a value: ")
 def reverse(value):
     print(value[::-1])
 
-#reverse(value)
+reverse(value)

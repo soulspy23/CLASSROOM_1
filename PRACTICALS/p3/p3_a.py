@@ -1,4 +1,4 @@
-#q8th July
+#28th July
 # write a function to check a sentence to see if it is a pangram or not.
 
 print("****************************")
