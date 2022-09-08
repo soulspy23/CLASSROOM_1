@@ -1,7 +1,7 @@
 #wap to read an entire text file
 #18th aug 2022
 try:
-    print("*****************************\n")
+    print("*****************************")
     print("Python program to read a file.")
     print("*****************************\n")
 

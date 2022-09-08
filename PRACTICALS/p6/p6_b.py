@@ -1,6 +1,6 @@
 #Write a Python program to read last n lines of a file.
 
-print("*********************************************\n")
+print("*********************************************")
 print("Python program to read last n lines of a file")
 print("*********************************************\n")
 

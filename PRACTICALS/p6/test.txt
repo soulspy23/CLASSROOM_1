@@ -1,0 +1,7 @@
+Names of fruits: 
+1)Apple 
+2)Banana 
+3)Cherry 
+4)Pineapple 
+5)Papaya 
+6)Blueberry
