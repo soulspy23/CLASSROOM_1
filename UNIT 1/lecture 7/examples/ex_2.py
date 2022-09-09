@@ -1,3 +1,4 @@
+#30th June 2022
 #accept a string from user and check if it is a palindrome
 num = int(input("Enter a number: "))
 

@@ -1,3 +1,5 @@
+
+#22nd June 2022
 #nested loop for multiplication table
 # 11 12 13           
 # 22 24 26

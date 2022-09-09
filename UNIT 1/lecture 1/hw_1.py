@@ -1,3 +1,5 @@
+#20th June 2022
+
 #q1 - write few lines about advantages of python using print statement
 print("Question 1:")
 print("Advantages of python :")

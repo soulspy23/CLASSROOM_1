@@ -1,3 +1,4 @@
+#30th June 2022
 #accept a input from player 1 and player 2 for rock/paper/scissors and display the winner
 
 print("rock = r \npaper = p \nscissors = s")

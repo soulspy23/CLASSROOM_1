@@ -1,3 +1,5 @@
+#9th July 2022
+
 #function to display the cumulative sum of numbers entered
 
 def calc():

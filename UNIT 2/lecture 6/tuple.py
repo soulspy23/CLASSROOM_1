@@ -1,3 +1,5 @@
+#25th July 2022
+
 #initializing tuple
 thistuple = ("apple", "banana", "cherry")
 print("Tuple :-",thistuple)

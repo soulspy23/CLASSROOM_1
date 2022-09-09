@@ -1,3 +1,5 @@
+#13th July 2022
+
 #finding whether the string is a palindome
 
 str = input("Enter a string for palindrome :- ")

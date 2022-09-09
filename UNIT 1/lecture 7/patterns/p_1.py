@@ -1,3 +1,4 @@
+#30th June 2022
 for i in range (6,0,-1):
 
     for j in range (i):

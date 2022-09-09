@@ -1,3 +1,4 @@
+#18th July 2022
 #lists
 
 list1=["stats","DBMS","OS","python","VR"]

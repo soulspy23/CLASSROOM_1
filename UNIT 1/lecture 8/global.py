@@ -1,3 +1,5 @@
+#2nd July 2022
+
 #global keyword
 
 x = "awesome" #global

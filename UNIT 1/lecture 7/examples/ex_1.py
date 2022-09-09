@@ -1,3 +1,4 @@
+#30th June 2022
 #accept a number from user and display its divisor from 1 to 10.
 
 num = int(input("Enter a number: "))

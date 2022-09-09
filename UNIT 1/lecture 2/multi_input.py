@@ -1,3 +1,5 @@
+#21st June 2022
+
 #multiple inputs
 
 x,y = input("Enter two values: ").split()

@@ -1,3 +1,4 @@
+#30th June 2022
 #accept a string from user. Display its length and display even position alphabets.
 
 str = input("Enter a string :")

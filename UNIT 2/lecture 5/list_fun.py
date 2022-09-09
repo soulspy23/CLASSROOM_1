@@ -1,3 +1,5 @@
+#19th July 2022
+
 #insert
 list = ["apple","banana","cherry"]
 list.insert(2,"watermelon")

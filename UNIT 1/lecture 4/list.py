@@ -1,3 +1,4 @@
+#27th June 2022
 #for loop for list
 
 fruits = ["apple", "banana", "cherry"]

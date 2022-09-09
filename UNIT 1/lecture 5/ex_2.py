@@ -1,3 +1,4 @@
+#28th June 2022
 #wap to calculate total strength of the class based on number of present boys and girls count in the class
 
 def disp_total(boys,girls):

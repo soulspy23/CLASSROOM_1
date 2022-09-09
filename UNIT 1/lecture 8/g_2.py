@@ -1,5 +1,4 @@
-from re import X
-
+#2nd July 2022
 
 def my_function():
     global x

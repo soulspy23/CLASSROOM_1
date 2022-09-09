@@ -1,3 +1,5 @@
+#22nd June 2022
+
 #range() function
 print("Example 1 :")
 for x in range (6):

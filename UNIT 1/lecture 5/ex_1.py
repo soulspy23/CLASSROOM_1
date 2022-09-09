@@ -1,3 +1,4 @@
+#28th June 2022
 #WAP to calculate total salary of employee
 
 def calc_salary(perday,workingdays):

@@ -1,3 +1,5 @@
+#9th July 2022
+
 #function to calculate the percentage and grade of a student based on 3 subject marks
 
 s1 = input("Enter your marks for s1 :")
