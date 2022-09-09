@@ -1,6 +1,10 @@
 #1st September
 #employee
 
+print("*******************************************************************")
+print("Designing a class to store and display the information of employees")
+print("*******************************************************************\n")
+
 class employee:
     e_total = 0
     #create objects
