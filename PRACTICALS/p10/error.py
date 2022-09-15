@@ -65,21 +65,21 @@ print("*********************")
 print("Module not find error")
 print("*********************")
 
-def error7():
+def error6():
     try:
         import asd
     except:
         print("Check the module name again\n")
-error7()
+error6()
 
 
 #print("*****************")
 #print("Indentation Error")
 #print("*****************")
 
-# def error8():
+# def error7():
 #     try:
 #         print("hello")
 #         except:
 #         print("indentation error")
-#error8()
+#error7()
