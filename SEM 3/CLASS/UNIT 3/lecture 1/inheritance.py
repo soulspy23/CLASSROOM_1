@@ -9,8 +9,8 @@ class Person():
 class Student(Person):
     def __init__(self,name,age,year,roll_no):
         Person.__init__(self,name,age)
-        self.name = name
-        self.age=age
+        #self.name = name
+        #self.age = age
         self.year = year
         self.roll_no = roll_no
 
